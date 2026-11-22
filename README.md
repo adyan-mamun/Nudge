@@ -5,4 +5,13 @@ The core of the project is sorta a software project, but the real challenge for 
 
 This project will fetch json formatted data from both the REST APIs of Google Tasks and Calendar, then assign them priorities, then create a list and correlated time to prompt you on the task. It will feature a display coded in pygame, connected with a basic LDR to dim the screen and and IR transciever to communicate with other modules.
 
-# For the 3D Printed Trinket, itll be printed with PLA and the settings specified in the journal. I will print it myself.
+# Trinket
+For the 3D Printed Trinket, itll be printed with PLA and the settings specified in the journal. I will print it myself.
+
+# Schematic
+
+# BOM
+
+# PCB
+
+# Firmware
